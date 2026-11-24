@@ -47,6 +47,27 @@ every random choice - entity pools, USCC digits, layout parameters, media
 effects - derives from a single `random.Random(seed)`; PDF metadata is fixed
 via reportlab's `invariant` mode; no wall-clock time enters any artifact.
 
+### Controllable parameters (CLI)
+
+Without parameter flags, the deterministic default schedule runs (all 4
+layouts, media and notation variants cycled, milestone/benefit bounds hit).
+Every order-listed controllable parameter can also be pinned; a pinned run is
+reproducible as well (same seed + same flags => identical bytes):
+
+| Flag | Values |
+|---|---|
+| `--seed` | integer (default 42) |
+| `--per-layout` | docs per layout (default 10) |
+| `--layouts` | comma-separated subset of `standard_clause`, `table_payment`, `benefits_attachment`, `supplement_agreement` |
+| `--media` | `all` (cycle) / `text_pdf` / `scan` / `photo` |
+| `--milestones` | 1–4 |
+| `--benefits` | 2–8 |
+| `--renewal` | `auto` / `on` / `off` |
+| `--breach-variant` | `auto` / `0` / `1` / `2` |
+| `--amount-notation` | `upper_digits` (大写加小写) / `digits_only` (仅小写) / `thousands` (千分位) |
+| `--date-notation` | `cn_fulldate` / `iso` / `slash` / `cn_numerals` |
+| `--export-png-dir` | export 5 spot-check PNGs |
+
 ## Ground truth schema
 
 Each document gets `<doc_id>.ground_truth.json`:

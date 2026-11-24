@@ -11,24 +11,24 @@ import random
 
 # ---------------------------------------------------------------- company names
 # Middle brand tokens are invented 2-character combinations from two pools.
+# TOKEN_B never repeats the suffix head (no "科技科技" stutter).
 NAME_TOKEN_A = (
     "云川", "鼎澜", "安晟", "泓宇", "清岚", "格致", "临溪", "明枢",
     "远山", "素叶", "晨岭", "恒泽", "青野", "知行", "怀谷", "临风",
 )
 NAME_TOKEN_B = (
-    "科技", "数联", "智创", "云维", "元启", "锐维", "新衡", "拓远",
+    "数联", "智创", "云维", "元启", "锐维", "新衡", "拓远", "聚成",
 )
-COMPANY_SUFFIXES = ("科技有限公司",)  # per ticket: 示例××科技有限公司（虚构）
-PARTY_B_SUFFIXES = ("商务服务有限公司",)
+COMPANY_SUFFIX = "科技有限公司"  # per ticket: 示例××科技有限公司（虚构）
 
 
-def company_name(rng: random.Random, suffix: str = COMPANY_SUFFIXES[0]) -> str:
+def company_name(rng: random.Random, suffix: str = COMPANY_SUFFIX) -> str:
     """示例××科技有限公司（虚构） format, randomly combined."""
     return f"示例{rng.choice(NAME_TOKEN_A)}{rng.choice(NAME_TOKEN_B)}{suffix}（虚构）"
 
 
 def party_b_name(rng: random.Random) -> str:
-    return company_name(rng, PARTY_B_SUFFIXES[0])
+    return company_name(rng)
 
 
 # ---------------------------------------------------------------- signatories

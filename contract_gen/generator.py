@@ -152,7 +152,9 @@ def generate_document(spec: L.DocSpec, rng: random.Random) -> tuple[bytes, dict]
     return pdf_bytes, gt
 
 
-def default_specs(seed: int, per_layout: int) -> tuple[list[L.DocSpec], random.Random]:
+def default_specs(seed: int, per_layout: int, layouts: list[str] | None = None,
+                  media: str | None = None,
+                  overrides: dict | None = None) -> tuple[list[L.DocSpec], random.Random]:
     """Default run: 4 layouts x per_layout docs.
 
     Deterministic parameter schedule (no RNG needed for coverage):
@@ -161,14 +163,21 @@ def default_specs(seed: int, per_layout: int) -> tuple[list[L.DocSpec], random.R
       - docs 2..: rng-driven
       - amount / date / breach variants and media cycle by doc index, so every
         variant appears in every default run.
+
+    ``layouts`` restricts the layout list; ``media`` forces one media type for
+    every document; ``overrides`` pins any of the controllable parameters
+    (milestone_count, benefit_count, renewal, breach_variant_idx,
+    amount_notation, date_notation) to a fixed value for all documents -
+    these are the CLI-exposed parameters.
     """
+    overrides = overrides or {}
     rng = random.Random(seed)
     specs = []
     idx = 0
-    for layout in L.LAYOUTS:
+    for layout in (layouts or L.LAYOUTS):
         for j in range(per_layout):
             idx += 1
-            media = L.MEDIA_TYPES[j % len(L.MEDIA_TYPES)]
+            m = media or L.MEDIA_TYPES[j % len(L.MEDIA_TYPES)]
             if j == 0:
                 mc, bc, rn = 1, 2, False
             elif j == 1:
@@ -179,11 +188,15 @@ def default_specs(seed: int, per_layout: int) -> tuple[list[L.DocSpec], random.R
                 rn = rng.random() < 0.5
             spec = build_spec(
                 doc_id=f"doc_{idx:02d}_{layout}",
-                layout=layout, media=media, rng=rng,
-                milestone_count=mc, benefit_count=bc, renewal=rn,
-                breach_variant_idx=j % 3,
-                amount_notation=AMOUNT_NOTATIONS[j % 3],
-                date_notation=DATE_NOTATIONS[j % 4],
+                layout=layout, media=m, rng=rng,
+                milestone_count=overrides.get("milestone_count", mc),
+                benefit_count=overrides.get("benefit_count", bc),
+                renewal=overrides.get("renewal", rn),
+                breach_variant_idx=overrides.get("breach_variant_idx", j % 3),
+                amount_notation=overrides.get("amount_notation",
+                                              AMOUNT_NOTATIONS[j % 3]),
+                date_notation=overrides.get("date_notation",
+                                            DATE_NOTATIONS[j % 4]),
             )
             specs.append(spec)
     return specs, rng
@@ -200,10 +213,12 @@ def write_json(path: str, obj: dict) -> None:
 
 
 def generate(seed: int = 42, per_layout: int = 10, out_dir: str = "samples",
-             verbose: bool = True) -> list[dict]:
-    """Generate the default corpus into ``out_dir``; returns per-doc results."""
+             layouts: list[str] | None = None, media: str | None = None,
+             overrides: dict | None = None, verbose: bool = True) -> list[dict]:
+    """Generate the corpus into ``out_dir``; returns per-doc results."""
     os.makedirs(out_dir, exist_ok=True)
-    specs, rng = default_specs(seed, per_layout)
+    specs, rng = default_specs(seed, per_layout, layouts=layouts, media=media,
+                               overrides=overrides)
     results = []
     for spec in specs:
         pdf_bytes, gt = generate_document(spec, rng)

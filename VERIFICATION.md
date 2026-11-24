@@ -30,7 +30,7 @@ Version: 9.2.0
 delivered samples files: 80
 files differing from a fresh seed-42 run: 0
 doc_01_standard_clause.pdf (delivered samples):
-  afc56ab1e6128d17420fd11dab20973ac599508878580517053ed75cc018aefb
+  938858025405143860425101284794b6d666be6d5e2ced8a26039abbba5880f0
 ```
 
 ## AC-1 determinism: two runs with seed 42, sha256 over all files
@@ -39,11 +39,11 @@ doc_01_standard_clause.pdf (delivered samples):
 files compared: 80
 mismatched files: 0
 doc_01_standard_clause.pdf
-  vr1: afc56ab1e6128d17420fd11dab20973ac599508878580517053ed75cc018aefb
-  vr2: afc56ab1e6128d17420fd11dab20973ac599508878580517053ed75cc018aefb
+  vr1: 938858025405143860425101284794b6d666be6d5e2ced8a26039abbba5880f0
+  vr2: 938858025405143860425101284794b6d666be6d5e2ced8a26039abbba5880f0
 doc_01_standard_clause.ground_truth.json
-  vr1: 1dfd6103b19951d187308e9849cb88559613d479a3c9315c221f31e2a1d73c5d
-  vr2: 1dfd6103b19951d187308e9849cb88559613d479a3c9315c221f31e2a1d73c5d
+  vr1: 86fc7620ebcc117b6e6dfe93a5362b0e3120a125a6035fbc18ab9fad70c45f8a
+  vr2: 86fc7620ebcc117b6e6dfe93a5362b0e3120a125a6035fbc18ab9fad70c45f8a
 ```
 
 ## AC-2 USCC: independent GB 32100 validator over all ground_truth files
@@ -77,6 +77,5 @@ doc_05_standard_clause_page1.png
 doc_06_standard_clause_page1.png
 ```
 ```
-........................                                                 [100%]
-24 passed in 58.74s
+............................                                             [100%]
 ```
