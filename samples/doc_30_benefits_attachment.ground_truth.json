@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "iso",
+  "doc_id": "doc_30_benefits_attachment",
+  "fields": {
+    "benefit_count": {
+      "page": 2,
+      "snippet": "共6项权益",
+      "value": 6
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2027-3306",
+      "value": "MEM-2027-3306"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共3期",
+      "value": 3
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例远山智创科技有限公司（虚构）",
+      "value": "示例远山智创科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "郑甲（虚构）",
+      "value": "郑甲（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999QY7UMPMCY9",
+      "value": "91999999QY7UMPMCY9"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例远山拓远商务服务有限公司（虚构）",
+      "value": "示例远山拓远商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "陈丁（虚构）",
+      "value": "陈丁（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999RC08H3EBMY",
+      "value": "91999999RC08H3EBMY"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2030-05-09",
+      "value": "2030-05-09"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2028-05-10",
+      "value": "2028-05-10"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币陆拾壹万肆仟玖佰元整（¥614,900.00）",
+      "value": 61490000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币陆拾壹万肆仟玖佰元整（¥614,900.00）",
+      "value": "人民币陆拾壹万肆仟玖佰元整（¥614,900.00）"
+    }
+  },
+  "layout": "benefits_attachment",
+  "media": "text_pdf",
+  "page_count": 2,
+  "page_text_extractable": true,
+  "seed": 42
+}

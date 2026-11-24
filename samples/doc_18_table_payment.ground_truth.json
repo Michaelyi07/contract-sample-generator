@@ -1,0 +1,88 @@
+{
+  "amount_notation": "digits_only",
+  "breach_variant_idx": 1,
+  "date_notation": "cn_numerals",
+  "doc_id": "doc_18_table_payment",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共8项权益",
+      "value": 8
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2028-9031",
+      "value": "MEM-2028-9031"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共1期",
+      "value": 1
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例鼎澜锐维科技有限公司（虚构）",
+      "value": "示例鼎澜锐维科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "王五（虚构）",
+      "value": "王五（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "919999993DYBLWTENY",
+      "value": "919999993DYBLWTENY"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例知行锐维商务服务有限公司（虚构）",
+      "value": "示例知行锐维商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "吴十（虚构）",
+      "value": "吴十（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999PGYL8KRXHU",
+      "value": "91999999PGYL8KRXHU"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "二〇三〇年二月四日",
+      "value": "2030-02-04"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "二〇二七年二月五日",
+      "value": "2027-02-05"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "¥619000.00",
+      "value": 61900000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "¥619000.00",
+      "value": "¥619000.00"
+    }
+  },
+  "layout": "table_payment",
+  "media": "scan",
+  "page_count": 1,
+  "page_text_extractable": false,
+  "seed": 42
+}

@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "cn_numerals",
+  "doc_id": "doc_24_benefits_attachment",
+  "fields": {
+    "benefit_count": {
+      "page": 2,
+      "snippet": "共4项权益",
+      "value": 4
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2029-1601",
+      "value": "MEM-2029-1601"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共4期",
+      "value": 4
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例晨岭数联科技有限公司（虚构）",
+      "value": "示例晨岭数联科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "郑甲（虚构）",
+      "value": "郑甲（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999E2A8A3QCUH",
+      "value": "91999999E2A8A3QCUH"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例格致锐维商务服务有限公司（虚构）",
+      "value": "示例格致锐维商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "吴十（虚构）",
+      "value": "吴十（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999UHED16GBKJ",
+      "value": "91999999UHED16GBKJ"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "二〇三〇年七月二十九日",
+      "value": "2030-07-29"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "二〇二七年七月三十日",
+      "value": "2027-07-30"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币捌拾柒万壹仟柒佰元整（¥871,700.00）",
+      "value": 87170000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币捌拾柒万壹仟柒佰元整（¥871,700.00）",
+      "value": "人民币捌拾柒万壹仟柒佰元整（¥871,700.00）"
+    }
+  },
+  "layout": "benefits_attachment",
+  "media": "text_pdf",
+  "page_count": 2,
+  "page_text_extractable": true,
+  "seed": 42
+}

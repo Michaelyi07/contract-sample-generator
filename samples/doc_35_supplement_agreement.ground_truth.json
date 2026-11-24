@@ -1,0 +1,88 @@
+{
+  "amount_notation": "digits_only",
+  "breach_variant_idx": 1,
+  "date_notation": "cn_fulldate",
+  "doc_id": "doc_35_supplement_agreement",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共4项权益",
+      "value": 4
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2027-1982",
+      "value": "MEM-2027-1982"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共3期",
+      "value": 3
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例临风数联科技有限公司（虚构）",
+      "value": "示例临风数联科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "冯丙（虚构）",
+      "value": "冯丙（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999JYHHAM3DBM",
+      "value": "91999999JYHHAM3DBM"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例安晟数联商务服务有限公司（虚构）",
+      "value": "示例安晟数联商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "王乙（虚构）",
+      "value": "王乙（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999XP1Y9K9B3K",
+      "value": "91999999XP1Y9K9B3K"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2029年02月16日",
+      "value": "2029-02-16"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027年02月17日",
+      "value": "2027-02-17"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "¥218200.00",
+      "value": 21820000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "¥218200.00",
+      "value": "¥218200.00"
+    }
+  },
+  "layout": "supplement_agreement",
+  "media": "scan",
+  "page_count": 1,
+  "page_text_extractable": false,
+  "seed": 42
+}

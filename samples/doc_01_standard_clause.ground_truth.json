@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "cn_fulldate",
+  "doc_id": "doc_01_standard_clause",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共2项权益",
+      "value": 2
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2029-9935",
+      "value": "MEM-2029-9935"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共1期",
+      "value": 1
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例泓宇科技科技有限公司（虚构）",
+      "value": "示例泓宇科技科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "王乙（虚构）",
+      "value": "王乙（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "919999992JD10267GQ",
+      "value": "919999992JD10267GQ"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例远山云维商务服务有限公司（虚构）",
+      "value": "示例远山云维商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "钱七（虚构）",
+      "value": "钱七（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "919999996NLNHD7EJ6",
+      "value": "919999996NLNHD7EJ6"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2028年04月24日",
+      "value": "2028-04-24"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027年04月25日",
+      "value": "2027-04-25"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币贰拾贰万柒仟玖佰元整（¥227,900.00）",
+      "value": 22790000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币贰拾贰万柒仟玖佰元整（¥227,900.00）",
+      "value": "人民币贰拾贰万柒仟玖佰元整（¥227,900.00）"
+    }
+  },
+  "layout": "standard_clause",
+  "media": "text_pdf",
+  "page_count": 1,
+  "page_text_extractable": true,
+  "seed": 42
+}

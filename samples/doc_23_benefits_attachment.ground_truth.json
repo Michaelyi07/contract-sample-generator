@@ -1,0 +1,88 @@
+{
+  "amount_notation": "thousands",
+  "breach_variant_idx": 2,
+  "date_notation": "slash",
+  "doc_id": "doc_23_benefits_attachment",
+  "fields": {
+    "benefit_count": {
+      "page": 2,
+      "snippet": "共2项权益",
+      "value": 2
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2029-5102",
+      "value": "MEM-2029-5102"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共4期",
+      "value": 4
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例素叶新衡科技有限公司（虚构）",
+      "value": "示例素叶新衡科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "张三（虚构）",
+      "value": "张三（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999027YMTUJJF",
+      "value": "91999999027YMTUJJF"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例远山拓远商务服务有限公司（虚构）",
+      "value": "示例远山拓远商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "吴十（虚构）",
+      "value": "吴十（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "919999998J1QQ5FGL6",
+      "value": "919999998J1QQ5FGL6"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2028/08/12",
+      "value": "2028-08-12"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027/08/13",
+      "value": "2027-08-13"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "125,300.00 元",
+      "value": 12530000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "125,300.00 元",
+      "value": "125,300.00 元"
+    }
+  },
+  "layout": "benefits_attachment",
+  "media": "photo",
+  "page_count": 2,
+  "page_text_extractable": false,
+  "seed": 42
+}

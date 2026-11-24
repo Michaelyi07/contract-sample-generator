@@ -1,0 +1,88 @@
+{
+  "amount_notation": "digits_only",
+  "breach_variant_idx": 1,
+  "date_notation": "cn_numerals",
+  "doc_id": "doc_38_supplement_agreement",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共2项权益",
+      "value": 2
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2028-6928",
+      "value": "MEM-2028-6928"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共4期",
+      "value": 4
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例知行新衡科技有限公司（虚构）",
+      "value": "示例知行新衡科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "李四（虚构）",
+      "value": "李四（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "919999992DU37DJCG9",
+      "value": "919999992DU37DJCG9"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例知行元启商务服务有限公司（虚构）",
+      "value": "示例知行元启商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "冯丙（虚构）",
+      "value": "冯丙（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "919999999PA7AQ52G1",
+      "value": "919999999PA7AQ52G1"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "二〇二九年二月二十七日",
+      "value": "2029-02-27"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "二〇二七年二月二十八日",
+      "value": "2027-02-28"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "¥94100.00",
+      "value": 9410000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "¥94100.00",
+      "value": "¥94100.00"
+    }
+  },
+  "layout": "supplement_agreement",
+  "media": "scan",
+  "page_count": 1,
+  "page_text_extractable": false,
+  "seed": 42
+}

@@ -1,0 +1,88 @@
+{
+  "amount_notation": "digits_only",
+  "breach_variant_idx": 1,
+  "date_notation": "cn_fulldate",
+  "doc_id": "doc_05_standard_clause",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共6项权益",
+      "value": 6
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2029-2290",
+      "value": "MEM-2029-2290"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共1期",
+      "value": 1
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例云川数联科技有限公司（虚构）",
+      "value": "示例云川数联科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "王五（虚构）",
+      "value": "王五（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "919999992PFT2QHQ49",
+      "value": "919999992PFT2QHQ49"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例恒泽元启商务服务有限公司（虚构）",
+      "value": "示例恒泽元启商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "赵六（虚构）",
+      "value": "赵六（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999YH58GUKDY1",
+      "value": "91999999YH58GUKDY1"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2028年05月02日",
+      "value": "2028-05-02"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027年05月03日",
+      "value": "2027-05-03"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "¥454600.00",
+      "value": 45460000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "¥454600.00",
+      "value": "¥454600.00"
+    }
+  },
+  "layout": "standard_clause",
+  "media": "scan",
+  "page_count": 1,
+  "page_text_extractable": false,
+  "seed": 42
+}

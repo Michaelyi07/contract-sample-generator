@@ -1,0 +1,88 @@
+{
+  "amount_notation": "thousands",
+  "breach_variant_idx": 2,
+  "date_notation": "slash",
+  "doc_id": "doc_33_supplement_agreement",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共3项权益",
+      "value": 3
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2028-9619",
+      "value": "MEM-2028-9619"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共1期",
+      "value": 1
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例明枢锐维科技有限公司（虚构）",
+      "value": "示例明枢锐维科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "李四（虚构）",
+      "value": "李四（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "919999993P2FEQBGJM",
+      "value": "919999993P2FEQBGJM"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例云川智创商务服务有限公司（虚构）",
+      "value": "示例云川智创商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "郑甲（虚构）",
+      "value": "郑甲（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "919999997YK1PRXUME",
+      "value": "919999997YK1PRXUME"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2028/05/15",
+      "value": "2028-05-15"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027/05/16",
+      "value": "2027-05-16"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "267,600.00 元",
+      "value": 26760000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "267,600.00 元",
+      "value": "267,600.00 元"
+    }
+  },
+  "layout": "supplement_agreement",
+  "media": "photo",
+  "page_count": 1,
+  "page_text_extractable": false,
+  "seed": 42
+}

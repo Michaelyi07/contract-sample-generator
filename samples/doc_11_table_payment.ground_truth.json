@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "cn_fulldate",
+  "doc_id": "doc_11_table_payment",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共2项权益",
+      "value": 2
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2029-5065",
+      "value": "MEM-2029-5065"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共1期",
+      "value": 1
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例格致新衡科技有限公司（虚构）",
+      "value": "示例格致新衡科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "吴十（虚构）",
+      "value": "吴十（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "9199999985RN3CU1U5",
+      "value": "9199999985RN3CU1U5"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例云川智创商务服务有限公司（虚构）",
+      "value": "示例云川智创商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "赵六（虚构）",
+      "value": "赵六（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999TXEB9TRU7P",
+      "value": "91999999TXEB9TRU7P"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2030年01月12日",
+      "value": "2030-01-12"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2028年01月13日",
+      "value": "2028-01-13"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币柒拾叁万肆仟伍佰元整（¥734,500.00）",
+      "value": 73450000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币柒拾叁万肆仟伍佰元整（¥734,500.00）",
+      "value": "人民币柒拾叁万肆仟伍佰元整（¥734,500.00）"
+    }
+  },
+  "layout": "table_payment",
+  "media": "text_pdf",
+  "page_count": 1,
+  "page_text_extractable": true,
+  "seed": 42
+}

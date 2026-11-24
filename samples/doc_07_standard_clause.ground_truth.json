@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "slash",
+  "doc_id": "doc_07_standard_clause",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共3项权益",
+      "value": 3
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2027-2528",
+      "value": "MEM-2027-2528"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共4期",
+      "value": 4
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例远山拓远科技有限公司（虚构）",
+      "value": "示例远山拓远科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "周九（虚构）",
+      "value": "周九（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999XQU75DFF6G",
+      "value": "91999999XQU75DFF6G"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例明枢数联商务服务有限公司（虚构）",
+      "value": "示例明枢数联商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "周九（虚构）",
+      "value": "周九（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999C0C8XRRE95",
+      "value": "91999999C0C8XRRE95"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2030/08/14",
+      "value": "2030-08-14"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027/08/15",
+      "value": "2027-08-15"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币贰拾贰万零肆佰元整（¥220,400.00）",
+      "value": 22040000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币贰拾贰万零肆佰元整（¥220,400.00）",
+      "value": "人民币贰拾贰万零肆佰元整（¥220,400.00）"
+    }
+  },
+  "layout": "standard_clause",
+  "media": "text_pdf",
+  "page_count": 1,
+  "page_text_extractable": true,
+  "seed": 42
+}

@@ -1,0 +1,88 @@
+{
+  "amount_notation": "thousands",
+  "breach_variant_idx": 2,
+  "date_notation": "cn_fulldate",
+  "doc_id": "doc_19_table_payment",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共8项权益",
+      "value": 8
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2027-4954",
+      "value": "MEM-2027-4954"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共4期",
+      "value": 4
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例临风云维科技有限公司（虚构）",
+      "value": "示例临风云维科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 2,
+      "snippet": "陈丁（虚构）",
+      "value": "陈丁（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999PDFHQ7NFL0",
+      "value": "91999999PDFHQ7NFL0"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例恒泽元启商务服务有限公司（虚构）",
+      "value": "示例恒泽元启商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 2,
+      "snippet": "冯丙（虚构）",
+      "value": "冯丙（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999R0297CN79W",
+      "value": "91999999R0297CN79W"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2029年06月23日",
+      "value": "2029-06-23"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027年06月24日",
+      "value": "2027-06-24"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "512,600.00 元",
+      "value": 51260000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "512,600.00 元",
+      "value": "512,600.00 元"
+    }
+  },
+  "layout": "table_payment",
+  "media": "photo",
+  "page_count": 2,
+  "page_text_extractable": false,
+  "seed": 42
+}

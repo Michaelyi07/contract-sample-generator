@@ -1,0 +1,88 @@
+{
+  "amount_notation": "thousands",
+  "breach_variant_idx": 2,
+  "date_notation": "cn_fulldate",
+  "doc_id": "doc_39_supplement_agreement",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共3项权益",
+      "value": 3
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2029-9095",
+      "value": "MEM-2029-9095"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共2期",
+      "value": 2
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例远山云维科技有限公司（虚构）",
+      "value": "示例远山云维科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "王乙（虚构）",
+      "value": "王乙（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999EQJQJEMXWT",
+      "value": "91999999EQJQJEMXWT"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例格致智创商务服务有限公司（虚构）",
+      "value": "示例格致智创商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "吴十（虚构）",
+      "value": "吴十（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999KAULA4E2F2",
+      "value": "91999999KAULA4E2F2"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2031年01月24日",
+      "value": "2031-01-24"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2028年01月25日",
+      "value": "2028-01-25"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "183,400.00 元",
+      "value": 18340000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "183,400.00 元",
+      "value": "183,400.00 元"
+    }
+  },
+  "layout": "supplement_agreement",
+  "media": "photo",
+  "page_count": 1,
+  "page_text_extractable": false,
+  "seed": 42
+}

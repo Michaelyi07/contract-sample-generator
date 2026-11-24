@@ -1,0 +1,88 @@
+{
+  "amount_notation": "thousands",
+  "breach_variant_idx": 2,
+  "date_notation": "iso",
+  "doc_id": "doc_36_supplement_agreement",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共6项权益",
+      "value": 6
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2027-3972",
+      "value": "MEM-2027-3972"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共3期",
+      "value": 3
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例知行科技科技有限公司（虚构）",
+      "value": "示例知行科技科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "张三（虚构）",
+      "value": "张三（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999U4JMC24PLQ",
+      "value": "91999999U4JMC24PLQ"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例远山科技商务服务有限公司（虚构）",
+      "value": "示例远山科技商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "陈丁（虚构）",
+      "value": "陈丁（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999G6CDEA5B9N",
+      "value": "91999999G6CDEA5B9N"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2029-04-02",
+      "value": "2029-04-02"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027-04-03",
+      "value": "2027-04-03"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "566,200.00 元",
+      "value": 56620000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "566,200.00 元",
+      "value": "566,200.00 元"
+    }
+  },
+  "layout": "supplement_agreement",
+  "media": "photo",
+  "page_count": 1,
+  "page_text_extractable": false,
+  "seed": 42
+}

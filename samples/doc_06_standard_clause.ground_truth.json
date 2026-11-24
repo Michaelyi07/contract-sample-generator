@@ -1,0 +1,88 @@
+{
+  "amount_notation": "thousands",
+  "breach_variant_idx": 2,
+  "date_notation": "iso",
+  "doc_id": "doc_06_standard_clause",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共6项权益",
+      "value": 6
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2028-2160",
+      "value": "MEM-2028-2160"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共1期",
+      "value": 1
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例明枢科技科技有限公司（虚构）",
+      "value": "示例明枢科技科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "王乙（虚构）",
+      "value": "王乙（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999G78MF6H4PP",
+      "value": "91999999G78MF6H4PP"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例安晟科技商务服务有限公司（虚构）",
+      "value": "示例安晟科技商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "周九（虚构）",
+      "value": "周九（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "919999997RFRD633M6",
+      "value": "919999997RFRD633M6"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2028-04-27",
+      "value": "2028-04-27"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027-04-28",
+      "value": "2027-04-28"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "111,400.00 元",
+      "value": 11140000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "111,400.00 元",
+      "value": "111,400.00 元"
+    }
+  },
+  "layout": "standard_clause",
+  "media": "photo",
+  "page_count": 1,
+  "page_text_extractable": false,
+  "seed": 42
+}

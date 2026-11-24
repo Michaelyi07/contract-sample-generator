@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "slash",
+  "doc_id": "doc_37_supplement_agreement",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共5项权益",
+      "value": 5
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2028-9633",
+      "value": "MEM-2028-9633"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共4期",
+      "value": 4
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例知行元启科技有限公司（虚构）",
+      "value": "示例知行元启科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "钱七（虚构）",
+      "value": "钱七（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999M917CK1068",
+      "value": "91999999M917CK1068"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例临溪数联商务服务有限公司（虚构）",
+      "value": "示例临溪数联商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "周九（虚构）",
+      "value": "周九（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "919999994Q89A30FP2",
+      "value": "919999994Q89A30FP2"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2029/06/25",
+      "value": "2029-06-25"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027/06/26",
+      "value": "2027-06-26"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币贰拾肆万壹仟陆佰元整（¥241,600.00）",
+      "value": 24160000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币贰拾肆万壹仟陆佰元整（¥241,600.00）",
+      "value": "人民币贰拾肆万壹仟陆佰元整（¥241,600.00）"
+    }
+  },
+  "layout": "supplement_agreement",
+  "media": "text_pdf",
+  "page_count": 1,
+  "page_text_extractable": true,
+  "seed": 42
+}

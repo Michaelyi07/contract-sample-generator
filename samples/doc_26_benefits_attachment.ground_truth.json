@@ -1,0 +1,88 @@
+{
+  "amount_notation": "thousands",
+  "breach_variant_idx": 2,
+  "date_notation": "iso",
+  "doc_id": "doc_26_benefits_attachment",
+  "fields": {
+    "benefit_count": {
+      "page": 2,
+      "snippet": "共8项权益",
+      "value": 8
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2028-9903",
+      "value": "MEM-2028-9903"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共3期",
+      "value": 3
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例云川元启科技有限公司（虚构）",
+      "value": "示例云川元启科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "周九（虚构）",
+      "value": "周九（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999CEXAU6N7JB",
+      "value": "91999999CEXAU6N7JB"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例素叶拓远商务服务有限公司（虚构）",
+      "value": "示例素叶拓远商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "周九（虚构）",
+      "value": "周九（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999QD1APFNXRJ",
+      "value": "91999999QD1APFNXRJ"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2029-03-18",
+      "value": "2029-03-18"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2028-03-19",
+      "value": "2028-03-19"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "791,600.00 元",
+      "value": 79160000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "791,600.00 元",
+      "value": "791,600.00 元"
+    }
+  },
+  "layout": "benefits_attachment",
+  "media": "photo",
+  "page_count": 2,
+  "page_text_extractable": false,
+  "seed": 42
+}

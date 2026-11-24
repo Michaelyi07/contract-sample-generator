@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "cn_numerals",
+  "doc_id": "doc_14_table_payment",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共3项权益",
+      "value": 3
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2028-9099",
+      "value": "MEM-2028-9099"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共2期",
+      "value": 2
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例明枢拓远科技有限公司（虚构）",
+      "value": "示例明枢拓远科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "李四（虚构）",
+      "value": "李四（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999C74LN0WQU9",
+      "value": "91999999C74LN0WQU9"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例安晟拓远商务服务有限公司（虚构）",
+      "value": "示例安晟拓远商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "李四（虚构）",
+      "value": "李四（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "919999995RYNGE1H7D",
+      "value": "919999995RYNGE1H7D"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "二〇三〇年七月三十一日",
+      "value": "2030-07-31"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "二〇二七年八月一日",
+      "value": "2027-08-01"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币叁拾柒万捌仟伍佰元整（¥378,500.00）",
+      "value": 37850000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币叁拾柒万捌仟伍佰元整（¥378,500.00）",
+      "value": "人民币叁拾柒万捌仟伍佰元整（¥378,500.00）"
+    }
+  },
+  "layout": "table_payment",
+  "media": "text_pdf",
+  "page_count": 1,
+  "page_text_extractable": true,
+  "seed": 42
+}

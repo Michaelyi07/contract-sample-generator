@@ -1,0 +1,88 @@
+{
+  "amount_notation": "digits_only",
+  "breach_variant_idx": 1,
+  "date_notation": "cn_fulldate",
+  "doc_id": "doc_15_table_payment",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共8项权益",
+      "value": 8
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2029-4919",
+      "value": "MEM-2029-4919"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共4期",
+      "value": 4
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例怀谷智创科技有限公司（虚构）",
+      "value": "示例怀谷智创科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 2,
+      "snippet": "郑甲（虚构）",
+      "value": "郑甲（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "919999998E2N978AAC",
+      "value": "919999998E2N978AAC"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例临风拓远商务服务有限公司（虚构）",
+      "value": "示例临风拓远商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 2,
+      "snippet": "周九（虚构）",
+      "value": "周九（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "9199999947CN4N62DR",
+      "value": "9199999947CN4N62DR"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2028年05月12日",
+      "value": "2028-05-12"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027年05月13日",
+      "value": "2027-05-13"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "¥514300.00",
+      "value": 51430000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "¥514300.00",
+      "value": "¥514300.00"
+    }
+  },
+  "layout": "table_payment",
+  "media": "scan",
+  "page_count": 2,
+  "page_text_extractable": false,
+  "seed": 42
+}

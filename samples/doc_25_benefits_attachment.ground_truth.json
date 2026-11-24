@@ -1,0 +1,88 @@
+{
+  "amount_notation": "digits_only",
+  "breach_variant_idx": 1,
+  "date_notation": "cn_fulldate",
+  "doc_id": "doc_25_benefits_attachment",
+  "fields": {
+    "benefit_count": {
+      "page": 2,
+      "snippet": "共2项权益",
+      "value": 2
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2027-8560",
+      "value": "MEM-2027-8560"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共1期",
+      "value": 1
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例明枢智创科技有限公司（虚构）",
+      "value": "示例明枢智创科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "郑甲（虚构）",
+      "value": "郑甲（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999Y3LT4FXN9W",
+      "value": "91999999Y3LT4FXN9W"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例素叶科技商务服务有限公司（虚构）",
+      "value": "示例素叶科技商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "赵六（虚构）",
+      "value": "赵六（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999DTFF7EH4CJ",
+      "value": "91999999DTFF7EH4CJ"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2029年10月09日",
+      "value": "2029-10-09"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027年10月10日",
+      "value": "2027-10-10"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "¥212700.00",
+      "value": 21270000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "¥212700.00",
+      "value": "¥212700.00"
+    }
+  },
+  "layout": "benefits_attachment",
+  "media": "scan",
+  "page_count": 2,
+  "page_text_extractable": false,
+  "seed": 42
+}

@@ -1,0 +1,88 @@
+{
+  "amount_notation": "thousands",
+  "breach_variant_idx": 2,
+  "date_notation": "slash",
+  "doc_id": "doc_13_table_payment",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共4项权益",
+      "value": 4
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2029-1006",
+      "value": "MEM-2029-1006"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共4期",
+      "value": 4
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例素叶智创科技有限公司（虚构）",
+      "value": "示例素叶智创科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "吴十（虚构）",
+      "value": "吴十（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999996DRJKLA3",
+      "value": "91999999996DRJKLA3"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例临溪新衡商务服务有限公司（虚构）",
+      "value": "示例临溪新衡商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "王五（虚构）",
+      "value": "王五（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999M6GFRWYRPC",
+      "value": "91999999M6GFRWYRPC"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2029/12/06",
+      "value": "2029-12-06"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027/12/07",
+      "value": "2027-12-07"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "345,100.00 元",
+      "value": 34510000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "345,100.00 元",
+      "value": "345,100.00 元"
+    }
+  },
+  "layout": "table_payment",
+  "media": "photo",
+  "page_count": 1,
+  "page_text_extractable": false,
+  "seed": 42
+}

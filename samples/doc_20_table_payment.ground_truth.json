@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "iso",
+  "doc_id": "doc_20_table_payment",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共4项权益",
+      "value": 4
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2027-4180",
+      "value": "MEM-2027-4180"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": 1,
+      "snippet": "本合同期满前三十日内，双方无异议的自动续约一年，续约期费用按当期标准执行。",
+      "value": true
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共2期",
+      "value": 2
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例格致云维科技有限公司（虚构）",
+      "value": "示例格致云维科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "钱七（虚构）",
+      "value": "钱七（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "9199999997B590NH4N",
+      "value": "9199999997B590NH4N"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例临溪拓远商务服务有限公司（虚构）",
+      "value": "示例临溪拓远商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "吴十（虚构）",
+      "value": "吴十（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "919999991H9NY4LUQC",
+      "value": "919999991H9NY4LUQC"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2030-05-21",
+      "value": "2030-05-21"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027-05-22",
+      "value": "2027-05-22"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币玖拾壹万玖仟伍佰元整（¥919,500.00）",
+      "value": 91950000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币玖拾壹万玖仟伍佰元整（¥919,500.00）",
+      "value": "人民币玖拾壹万玖仟伍佰元整（¥919,500.00）"
+    }
+  },
+  "layout": "table_payment",
+  "media": "text_pdf",
+  "page_count": 1,
+  "page_text_extractable": true,
+  "seed": 42
+}

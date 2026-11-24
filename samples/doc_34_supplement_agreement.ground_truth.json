@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "cn_numerals",
+  "doc_id": "doc_34_supplement_agreement",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共5项权益",
+      "value": 5
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2028-9984",
+      "value": "MEM-2028-9984"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共1期",
+      "value": 1
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例怀谷数联科技有限公司（虚构）",
+      "value": "示例怀谷数联科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "周九（虚构）",
+      "value": "周九（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999NACKG9EGK2",
+      "value": "91999999NACKG9EGK2"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例安晟锐维商务服务有限公司（虚构）",
+      "value": "示例安晟锐维商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "赵六（虚构）",
+      "value": "赵六（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999N3ULLWQHPH",
+      "value": "91999999N3ULLWQHPH"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "二〇二八年十一月七日",
+      "value": "2028-11-07"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "二〇二七年十一月八日",
+      "value": "2027-11-08"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币壹拾陆万柒仟陆佰元整（¥167,600.00）",
+      "value": 16760000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币壹拾陆万柒仟陆佰元整（¥167,600.00）",
+      "value": "人民币壹拾陆万柒仟陆佰元整（¥167,600.00）"
+    }
+  },
+  "layout": "supplement_agreement",
+  "media": "text_pdf",
+  "page_count": 1,
+  "page_text_extractable": true,
+  "seed": 42
+}

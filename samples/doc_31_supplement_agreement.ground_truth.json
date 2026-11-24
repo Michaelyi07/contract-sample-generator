@@ -1,0 +1,88 @@
+{
+  "amount_notation": "upper_digits",
+  "breach_variant_idx": 0,
+  "date_notation": "cn_fulldate",
+  "doc_id": "doc_31_supplement_agreement",
+  "fields": {
+    "benefit_count": {
+      "page": 1,
+      "snippet": "共2项权益",
+      "value": 2
+    },
+    "contract_no": {
+      "page": 1,
+      "snippet": "MEM-2028-9071",
+      "value": "MEM-2028-9071"
+    },
+    "currency": {
+      "page": 1,
+      "snippet": "CNY",
+      "value": "CNY"
+    },
+    "has_renewal": {
+      "page": null,
+      "snippet": null,
+      "value": false
+    },
+    "milestone_count": {
+      "page": 1,
+      "snippet": "付款节点共1期",
+      "value": 1
+    },
+    "party_a_name": {
+      "page": 1,
+      "snippet": "示例安晟拓远科技有限公司（虚构）",
+      "value": "示例安晟拓远科技有限公司（虚构）"
+    },
+    "party_a_signatory": {
+      "page": 1,
+      "snippet": "冯丙（虚构）",
+      "value": "冯丙（虚构）"
+    },
+    "party_a_uscc": {
+      "page": 1,
+      "snippet": "91999999337WH4CEBH",
+      "value": "91999999337WH4CEBH"
+    },
+    "party_b_name": {
+      "page": 1,
+      "snippet": "示例素叶新衡商务服务有限公司（虚构）",
+      "value": "示例素叶新衡商务服务有限公司（虚构）"
+    },
+    "party_b_signatory": {
+      "page": 1,
+      "snippet": "冯丙（虚构）",
+      "value": "冯丙（虚构）"
+    },
+    "party_b_uscc": {
+      "page": 1,
+      "snippet": "91999999YHDJPP4WDB",
+      "value": "91999999YHDJPP4WDB"
+    },
+    "service_end_date": {
+      "page": 1,
+      "snippet": "2028年02月29日",
+      "value": "2028-02-29"
+    },
+    "service_start_date": {
+      "page": 1,
+      "snippet": "2027年03月01日",
+      "value": "2027-03-01"
+    },
+    "total_amount_cents": {
+      "page": 1,
+      "snippet": "人民币壹拾叁万肆仟贰佰元整（¥134,200.00）",
+      "value": 13420000
+    },
+    "total_amount_display": {
+      "page": 1,
+      "snippet": "人民币壹拾叁万肆仟贰佰元整（¥134,200.00）",
+      "value": "人民币壹拾叁万肆仟贰佰元整（¥134,200.00）"
+    }
+  },
+  "layout": "supplement_agreement",
+  "media": "text_pdf",
+  "page_count": 1,
+  "page_text_extractable": true,
+  "seed": 42
+}
